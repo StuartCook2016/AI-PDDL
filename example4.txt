@@ -1,0 +1,16 @@
+15,15
+               
+ WWWWWWWWWWWWW 
+ W           W 
+ W   WWWWW   W 
+ W  W     W  W 
+ W W  W W  W W 
+ W W       W W 
+ W W       W W 
+ W WWWWWWWWW W 
+ W W       W W 
+ W   WW WW   W 
+ W  W W W W  W 
+ W W  W W  W W 
+ WWWWWW WWWWWW 
+               
